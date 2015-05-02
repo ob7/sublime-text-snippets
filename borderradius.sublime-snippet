@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+border-radius: ${1:16px} ${2:16px} ${3:16px} ${4:16px};
+-moz-border-radius: ${1:16px} ${2:16px} ${3:16px} ${4:16px};
+-webkit-border-radius: ${1:16px} ${2:16px} ${3:16px} ${4:16px};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>borderradius</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

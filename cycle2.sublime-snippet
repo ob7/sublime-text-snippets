@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<script src="http://malsup.github.io/min/jquery.cycle2.min.js"></script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cycle2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

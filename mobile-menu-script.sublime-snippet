@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<script type="text/javascript">
+\$(function() {  
+    var pull        = \$('#pull');  
+        menu        = \$('nav.nav-class ul');  
+        menuHeight  = menu.height();  
+  
+    \$(pull).on('click', function(e) {  
+        e.preventDefault(); 
+        menu.slideToggle();  
+    });  
+});
+
+\$(window).resize(function(){  
+    var w = \$(window).width();  
+    if(w > 320 && menu.is(':hidden')) {  
+        menu.removeAttr('style'); 
+    }  
+}); 
+</script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mobile-menu-script</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+http://i2.ytimg.com/vi/${1:oawcumdwaRs}/mqdefault.jpg
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>youtube-thumb</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

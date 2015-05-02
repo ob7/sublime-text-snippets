@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!-- takana live edit -->
+		<script type="text/javascript" src="http://localhost:48626/takana.js"></script>
+		<script type="text/javascript">
+			takanaClient.run({host: 'localhost:48626'});
+		</script>
+<!-- takana live edit end -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>takana</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

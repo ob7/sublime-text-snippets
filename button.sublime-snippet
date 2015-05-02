@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" class="buttonPro ${1:large} ${2:rounded} ${3:light_blue}">${4:button}</a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>make-button</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

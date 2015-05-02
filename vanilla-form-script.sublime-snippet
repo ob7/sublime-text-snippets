@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<!-- Vanilla's resources start here -->
+<link rel="stylesheet" href="css/vanilla-form.css">
+<script src="js/vanilla-form.js"></script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+		var myForm;
+		myForm = new VanillaForm(document.querySelector("form.vanilla-form"));
+		});
+	</script>
+<!-- Vanilla's resources end here -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vanilla-form-script</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

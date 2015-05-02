@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<img src="img/${1:logo}.svg" onerror="this.src='img/${1:logo}.png'" width="100%">
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>img-svg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+text-shadow: 1px 1px 3px #000;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>textshadow</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

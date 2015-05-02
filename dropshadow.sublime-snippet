@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+-webkit-filter: drop-shadow( ${1:-5px} ${2:-5px} ${3:5px} #000 );
+filter: drop-shadow( ${1:-5px} ${2:-5px} ${3:5px} #000 );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dropshadow</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

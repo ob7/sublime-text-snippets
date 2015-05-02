@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+-webkit-opacity: ${1:0.25};
+-moz-opacity: ${1:0.25};
+opacity: ${1:0.25};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>alpha</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

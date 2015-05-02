@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<nav>
+	<a href="#" id="pull">MENU</a>
+		<ul>
+			<li><a href="#">${1:Home}</a></li>
+			<li><a href="#">${2:About}</a></li>
+			<li><a href="#">${3:Item 3}</a></li>
+			<li><a href="#">${4:Item 4}</a></li>
+			<li><a href="#">${5:Item 5}</a></li>
+			<li><a href="#">${6:Item 6}</a></li>
+		</ul>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mobile-menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
